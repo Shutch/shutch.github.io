@@ -1,6 +1,6 @@
 title: Hutchinson Engineering LLC
-logo: /assets/logo.png
-description: Mechanical and software engineering contractor
+# logo: /assets/logo.png
+description: Mechanical and software engineering for hire
 show_downloads: false
-google_analytics:
+# google_analytics:
 theme: jekyll-theme-minimal

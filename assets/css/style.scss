@@ -3,14 +3,14 @@
 
 @import "{{ site.theme }}";
 header {
-  width:500px;
+  width:400px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
 footer {
-  width:500px;
+  width:400px;
   float:left;
   position:fixed;
   bottom:50px;
@@ -18,7 +18,12 @@ footer {
 }
 
 section {
-  width:500px;
+  width:400px;
   float:right;
   padding-bottom:50px;
+  padding-top: 10px;
+}
+
+img {
+  max-width:100%;
 }
